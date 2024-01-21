@@ -24,4 +24,5 @@ Draw insights from your analysis and use them to make informed recommendations. 
 Step 8:- Documentation
 Document the steps you took to create the dashboard. Include explanations for your design choices and any challenges you faced. Create a summary of the insights gained and recommendations made.
 
-
+Link of the Google sheet Dashboard:-
+https://docs.google.com/spreadsheets/d/1ls4dNRTlmo4oxAv8jaOj-jyAzCkR_33-YFSi-ChtOfE/edit?usp=sharing
